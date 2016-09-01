@@ -1,0 +1,679 @@
+[0828/233353:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0828/233353:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0828/233353:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0828/233353:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0828/233353:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0828/233354:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0828/233354:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0828/233355:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0828/233355:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0828/233355:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0828/233355:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0828/233355:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0828/233358:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0828/233358:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0828/233358:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0828/233358:ERROR:gpu_channel_host.cc(228)] Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0828/233358:ERROR:webgraphicscontext3d_command_buffer_impl.cc(218)] Failed to initialize command buffer.
+[0828/233358:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0828/233358:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0828/233358:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0828/233358:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0828/233358:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0828/233358:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0828/233358:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0828/233358:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0828/233358:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0828/233358:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0828/233358:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0828/233359:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0828/233359:ERROR:content_client.cc(344)] No data resource available for id 4750
+[0828/233359:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0828/233359:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0828/233359:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0828/233359:ERROR:gpu_channel_host.cc(228)] Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0828/233359:ERROR:webgraphicscontext3d_command_buffer_impl.cc(218)] Failed to initialize command buffer.
+[0828/233359:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0828/233359:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0828/233359:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0828/233359:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0828/233359:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0828/233359:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0828/233359:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233359:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233359:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF3ABF0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233400:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0828/233400:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0828/233400:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0828/233400:ERROR:gpu_channel_host.cc(228)] Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0828/233400:ERROR:webgraphicscontext3d_command_buffer_impl.cc(218)] Failed to initialize command buffer.
+[0828/233400:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0828/233400:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0828/233400:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0828/233400:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0828/233400:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0828/233400:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0828/233400:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0828/233400:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233400:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233400:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233400:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233400:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233400:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233400:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233400:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233400:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233400:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233400:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233400:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233400:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233400:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233400:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233400:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233400:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233400:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233400:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233400:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233400:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233400:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233400:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233400:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233400:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233400:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0828/233400:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0828/233400:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000032DDF39F00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0829/103724:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/103726:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/103726:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/103726:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/103726:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/103728:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0829/103728:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/103730:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0829/103730:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0829/103730:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0829/103730:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0829/103730:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0829/103733:ERROR:content_client.cc(344)] No data resource available for id 30381
+[0829/103733:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0829/103733:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0829/103733:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0829/103733:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0829/103733:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0829/103733:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/103734:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0829/103734:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0829/103734:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0829/103734:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0829/103734:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/103734:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0829/103734:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0829/103734:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0829/103734:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0829/103734:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/103735:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0829/103735:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0829/103735:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0829/103735:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0829/103735:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/103735:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0829/103735:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0829/103735:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0829/103735:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0829/103735:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/103736:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0829/103736:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0829/103736:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0829/103736:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0829/103736:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/103736:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0829/103736:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0829/103736:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0829/103736:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0829/103736:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0829/103736:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/103736:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000040CE3000B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0829/103736:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000040CE3000B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0829/103736:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000040CE3000B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0829/103736:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000040CE3000B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0829/103736:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000040CE3000B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0829/103736:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000040CE3000B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0829/103736:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000040CE3000B0]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0829/103736:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000040CE3000B0]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0829/103738:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0829/103738:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0829/103738:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0829/103738:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0829/103738:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0829/103738:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/103738:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0829/103738:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0829/103738:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0829/103738:ERROR:gpu_channel_host.cc(228)] Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0829/103738:ERROR:webgraphicscontext3d_command_buffer_impl.cc(218)] Failed to initialize command buffer.
+[0829/103738:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0829/103738:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/103739:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0829/103739:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0829/103739:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0829/103739:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0829/103739:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/103739:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0829/103739:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0829/103739:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0829/103739:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0829/103739:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0829/103739:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/103739:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000040CE300670]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0829/103739:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000040CE300670]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0829/103739:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000040CE300670]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0829/103739:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000040CE300670]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0829/103739:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000040CE300670]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0829/103739:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000040CE300670]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0829/103739:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-00000040CE300670]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0829/103739:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-00000040CE300670]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0829/103740:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0829/103740:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0829/103740:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0829/103740:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0829/103740:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0829/103740:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/103740:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0829/103740:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0829/103740:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0829/103740:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0829/103741:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/104101:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/104101:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/104101:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/104101:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/104101:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/104101:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0829/104102:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/104102:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0829/104102:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0829/104102:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0829/104102:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0829/104102:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0829/104102:ERROR:content_client.cc(344)] No data resource available for id 30381
+[0829/110034:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/110034:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/110034:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/110034:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/110034:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/110549:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/110549:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/110549:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/110549:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/110549:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/111704:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/111704:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/111704:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/111704:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/111704:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/111922:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/111923:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/111923:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/111923:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/111923:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/112736:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/112736:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/112736:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/112736:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/112736:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/112736:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0829/112736:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/112736:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0829/112736:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0829/112736:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0829/112736:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0829/112736:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0829/112736:ERROR:content_client.cc(344)] No data resource available for id 30381
+[0829/193011:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193014:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/193014:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193036:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193036:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/193036:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/193036:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/193036:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193043:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193044:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0829/193044:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0829/193044:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0829/193044:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0829/193044:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0829/193044:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0829/193049:ERROR:content_client.cc(332)] No localized string available for id 28000
+[0829/193049:ERROR:content_client.cc(332)] No localized string available for id 28001
+[0829/193049:ERROR:content_client.cc(332)] No localized string available for id 28013
+[0829/193049:ERROR:content_client.cc(332)] No localized string available for id 28014
+[0829/193131:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193131:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/193131:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/193131:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/193131:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193131:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0829/193131:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193131:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0829/193131:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0829/193131:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0829/193131:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0829/193131:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0829/193132:ERROR:content_client.cc(344)] No data resource available for id 30381
+[0829/193139:ERROR:ipc_channel_win.cc(519)] pipe error: 232
+[0829/193148:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193148:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/193148:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/193148:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/193148:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193149:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0829/193149:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193149:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0829/193149:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0829/193149:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0829/193149:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0829/193149:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0829/193157:ERROR:content_client.cc(332)] No localized string available for id 28000
+[0829/193157:ERROR:content_client.cc(332)] No localized string available for id 28001
+[0829/193157:ERROR:content_client.cc(332)] No localized string available for id 28013
+[0829/193157:ERROR:content_client.cc(332)] No localized string available for id 28014
+[0829/193321:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193321:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/193321:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/193321:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/193321:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193322:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0829/193322:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193323:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0829/193323:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0829/193323:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0829/193323:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0829/193323:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0829/193514:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193514:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/193514:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/193514:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/193514:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193515:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0829/193515:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193515:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0829/193515:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0829/193515:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0829/193515:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0829/193515:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0829/193621:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193621:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/193621:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/193621:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/193621:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193622:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0829/193622:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193622:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0829/193622:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0829/193622:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0829/193622:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0829/193622:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0829/193641:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193641:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/193641:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/193641:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/193641:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193642:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0829/193642:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193643:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0829/193643:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0829/193643:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0829/193643:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0829/193643:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0829/193719:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193719:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/193719:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/193719:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/193719:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193721:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0829/193721:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193721:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0829/193721:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0829/193721:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0829/193721:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0829/193721:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0829/193749:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193749:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/193749:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/193749:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/193749:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193750:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0829/193750:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193750:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0829/193750:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0829/193750:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0829/193750:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0829/193750:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0829/193855:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193855:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/193855:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/193855:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/193855:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193857:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0829/193857:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/193857:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0829/193857:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0829/193857:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0829/193857:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0829/193857:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0829/193911:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0829/194141:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/194141:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/194141:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/194141:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/194142:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/194144:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0829/194145:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/194145:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0829/194145:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0829/194145:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0829/194145:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0829/194145:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0829/194209:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/194210:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/194210:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/194210:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/194210:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/194211:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0829/194211:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/194211:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0829/194211:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0829/194211:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0829/194211:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0829/194211:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0829/194347:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/194347:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0829/194347:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0829/194347:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0829/194347:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/194347:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0829/194347:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0829/194347:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0829/194347:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0829/194347:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0829/194347:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0829/194347:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0830/140543:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/140543:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0830/140543:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0830/140543:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0830/140544:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0830/140544:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/140544:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/140544:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0830/140544:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0830/140544:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0830/140544:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0830/140544:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0830/141226:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/141226:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0830/141226:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0830/141226:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0830/141227:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/141229:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0830/141229:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/141229:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0830/141229:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0830/141229:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0830/141229:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0830/141229:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0830/141956:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/141956:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0830/141956:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0830/141956:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0830/141956:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/141958:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0830/141958:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/141958:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0830/141958:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0830/141958:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0830/141958:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0830/141958:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0830/142033:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/142033:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0830/142033:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0830/142033:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0830/142033:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/142034:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0830/142034:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/142034:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0830/142034:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0830/142034:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0830/142034:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0830/142034:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0830/142045:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0830/142045:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0830/142045:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0830/142045:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0830/142045:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/142048:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0830/142048:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0830/142048:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0830/142048:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0830/142048:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/142052:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0830/142052:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0830/142052:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0830/142052:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0830/142052:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/142118:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/142118:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0830/142118:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0830/142118:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0830/142118:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/142119:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0830/142119:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/142119:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0830/142119:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0830/142119:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0830/142119:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0830/142119:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0830/151847:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/151847:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0830/151847:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0830/151847:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0830/151847:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/151848:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0830/151848:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/151849:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0830/151849:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0830/151849:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0830/151849:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0830/151849:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0830/151851:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0830/151851:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0830/151851:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0830/151851:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0830/151851:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0830/151851:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152049:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152049:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0830/152049:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0830/152049:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0830/152049:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152051:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0830/152051:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152051:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0830/152051:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0830/152051:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0830/152051:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0830/152051:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0830/152111:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152111:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0830/152111:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0830/152111:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0830/152111:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152112:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0830/152113:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152113:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0830/152113:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0830/152113:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0830/152113:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0830/152113:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0830/152117:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0830/152117:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0830/152117:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0830/152117:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0830/152117:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0830/152117:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152118:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0830/152118:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0830/152118:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0830/152118:ERROR:gpu_channel_host.cc(228)] Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0830/152118:ERROR:webgraphicscontext3d_command_buffer_impl.cc(218)] Failed to initialize command buffer.
+[0830/152118:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0830/152118:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152118:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0830/152118:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0830/152118:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0830/152118:ERROR:gpu_channel_host.cc(228)] Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0830/152118:ERROR:webgraphicscontext3d_command_buffer_impl.cc(218)] Failed to initialize command buffer.
+[0830/152118:ERROR:gpu_process_transport_factory.cc(669)] Lost UI shared context.
+[0830/152118:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152136:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152136:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0830/152136:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0830/152136:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0830/152136:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152137:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0830/152137:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152137:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0830/152137:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0830/152137:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0830/152137:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0830/152137:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0830/152241:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152241:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0830/152241:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0830/152241:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0830/152241:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152242:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0830/152242:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152242:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0830/152242:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0830/152242:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0830/152242:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0830/152242:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0830/152856:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152856:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0830/152856:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0830/152856:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0830/152856:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152857:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0830/152857:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/152857:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0830/152857:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0830/152857:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0830/152857:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0830/152857:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0830/154002:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/154005:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0830/154006:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0830/154006:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0830/154006:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/154018:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0830/154018:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0830/154019:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0830/154019:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0830/154019:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0830/154019:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0830/154019:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0830/154026:ERROR:content_client.cc(332)] No localized string available for id 28000
+[0830/154026:ERROR:content_client.cc(332)] No localized string available for id 28001
+[0830/154026:ERROR:content_client.cc(332)] No localized string available for id 28013
+[0830/154026:ERROR:content_client.cc(332)] No localized string available for id 28014
+[0831/130721:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0831/130749:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0831/130750:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0831/130750:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0831/130751:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0831/130751:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0831/130756:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0831/130756:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0831/130759:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0831/130759:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0831/130759:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0831/130759:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0831/130759:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0831/130839:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0831/130839:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0831/130839:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0831/130839:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0831/130839:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0831/130840:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0831/130840:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0831/130841:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0831/130841:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0831/130841:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0831/130841:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0831/130841:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0831/131749:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0831/131749:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0831/131749:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0831/131749:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0831/131749:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0831/131907:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0831/131907:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0831/131907:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0831/131907:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0831/131907:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0831/131953:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0831/131953:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0831/131953:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0831/131953:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0831/131953:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0831/131954:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0831/131955:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0831/131955:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0831/131955:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0831/131955:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0831/131955:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0831/131955:ERROR:content_client.cc(344)] No data resource available for id 30371
+[0831/134422:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0831/134422:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0831/134422:ERROR:content_client.cc(344)] No data resource available for id 23968
+[0831/134422:ERROR:content_client.cc(344)] No data resource available for id 23967
+[0831/134422:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0831/134424:ERROR:shell.cc(299)] Instance: exe:content_browser attempting to register an instance for a process it created for target: exe:content_renderer without the mojo:shell{client_process} capability class.
+[0831/134424:WARNING:resource_bundle.cc(307)] locale_file_path.empty() for locale 
+[0831/134424:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0831/134424:ERROR:content_client.cc(344)] No data resource available for id 30378
+[0831/134424:ERROR:content_client.cc(344)] No data resource available for id 30379
+[0831/134424:ERROR:content_client.cc(344)] No data resource available for id 30370
+[0831/134424:ERROR:content_client.cc(344)] No data resource available for id 30380
+[0831/134424:ERROR:content_client.cc(344)] No data resource available for id 30371

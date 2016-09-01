@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "authors": [
+    "Darya Papova <darya.papova@revotechs.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7",
+    "jsgrid": "js-grid#^1.5.1",
+    "d3": "^4.2.2"
+  }
+}
